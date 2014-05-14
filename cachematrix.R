@@ -21,7 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
     ##This function get the special Matrix
     getInverse <- function() m
 
-    ##This list cosists of all the functions defined
+    ##This list cosists of all the nested functions defined above
     list(set = set, get = get,
          setInverse = setInverse,
          getInverse = getInverse)
