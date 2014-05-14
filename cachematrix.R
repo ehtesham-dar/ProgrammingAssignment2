@@ -15,10 +15,10 @@ makeCacheMatrix <- function(x = matrix()) {
     ##This function get the value of the Matrix
     get <- function() x
 
-    ##This function sets the invered Matrix
+    ##This function sets the special Matrix for caching
     setInverse <- function(inverse) m <<- inverse
 
-    ##This function get the inversed Matrix
+    ##This function get the special Matrix
     getInverse <- function() m
 
     ##This list cosists of all the functions defined
