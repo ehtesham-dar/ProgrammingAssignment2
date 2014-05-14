@@ -1,4 +1,4 @@
-##  This  function  consists  of  four nested functions,
+##  This  function  consists   of   four  nested functions,
 ##  The following are the functionality of these functions
 ##      1- 'set' function sets the value of a matrix
 ##      2- 'get' function gets the value of a matrix
